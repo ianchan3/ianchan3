@@ -1,9 +1,9 @@
 👋 Hi, my name is Ian and I'm a Full Stack Engineer. I’m very passionate about front end and have a passion for designing.
  
  Here is a short list of my skills:
-- HTML/CSS/JavaScript
-- Python/Django (Python Full Stack)
-- MongoDB/Express/React/Node (MERN Stack)
+✅ HTML/CSS/JavaScript
+✅ Python/Django (Python Full Stack)
+✅ MongoDB/Express/React/Node (MERN Stack)
  
  🌱 I’m currently learning Amazon Web Services (AWS)
  
