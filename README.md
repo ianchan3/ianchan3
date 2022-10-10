@@ -1,4 +1,4 @@
-👋 Hi, my name is Ian and I'm a Full Stack Engineer. I’m very passionate about utilizing different technologies to make a positive impact in the world
+👋 Hi, my name is Ian and I'm a Full Stack Engineer. I’m very passionate about utilizing different technologies to make a positive impact in the world.
  
  Here is a short list of my skills:
  
