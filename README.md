@@ -7,7 +7,7 @@ Hi, my name is Ian and I'm a Full Stack Engineer. I am highly skilled in both fr
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,django,vue,heroku,git,github,vscode,typescript,postgres)](https://skillicons.dev)
  
- 🌱 I’m currently learning Vue, Sequelize, and Docker.
+ 🌱 I’m currently learning Vue, Sequelize, and TypeScript.
  
  ## :link: **Links**
  
