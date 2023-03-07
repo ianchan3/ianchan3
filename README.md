@@ -13,8 +13,8 @@ Hi, my name is Ian and I'm a Full Stack Engineer. I am highly skilled in both fr
  
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ianchan-) 
  
-## :email: ianchan3138@gmail.com
-## :computer: www.ianchanportfolio.com
+## :email: - ianchan3138@gmail.com
+## :computer: - www.ianchanportfolio.com
  
  
 
