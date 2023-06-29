@@ -5,7 +5,7 @@ Hi, my name is Ian and I'm a Full Stack Engineer. I am highly skilled in both fr
  
 ## :pager: **Technologies Used**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,redux,vue,python,django,heroku,git,github,vscode,typescript,postgres,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,redux,tailwind,materialui,bootstrap,postgres,postman,vue,python,django,heroku,git,github,vscode,typescript,nextjs)](https://skillicons.dev)
  
  🌱 I’m currently learning Vue, Sequelize, and TypeScript.
  
